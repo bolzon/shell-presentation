@@ -13,3 +13,9 @@ Run.
 ```sh
 $ present present.md
 ```
+
+## Screenshot
+
+This is how it looks like:
+
+![Screenshot](./present.png "Screenshot")
